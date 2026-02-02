@@ -34,7 +34,3 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashrana2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrana2004&layout=compact&theme=radical)
