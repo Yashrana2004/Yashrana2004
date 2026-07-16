@@ -10,9 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=rana-yash-001&label=PROFILE+VIEWS&color=F7C873&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/rana-yash-001?style=for-the-badge&color=F7C873&labelColor=000000"/>
-
-<img src="https://img.shields.io/github/stars/rana-yash-001?style=for-the-badge&color=F7C873&labelColor=000000"/>
 
 </div>
 
