@@ -1,73 +1,80 @@
 <div align="center">
 
-<img src="./assets/banner.jpeg" alt="Yash Rana Banner" width="100%"/>
+<img src="./assets/banner.jpeg" width="100%" alt="Yash Rana Banner">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=F7C873&center=true&vCenter=true&width=850&lines=Software+Developer;Machine+Learning+Engineer;AWS+Cloud+Enthusiast;Backend+Developer;Building+AI-Powered+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=E62429&center=true&vCenter=true&width=850&lines=🕷️+Friendly+Neighborhood+Developer;Machine+Learning+Engineer;Cloud+Explorer;Building+The+Future+One+Project+At+A+Time"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rana-yash-001&label=PROFILE+VIEWS&color=F7C873&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spider--Verse-Developer-E62429?style=for-the-badge&logo=spideroak&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=rana-yash-001&label=WEB+VISITORS&color=E62429&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🕷️ About Me
 
 ```python
-class YashRana:
+class SpiderDeveloper:
 
     def __init__(self):
         self.name = "Yash Rana"
-        self.role = "Software Developer"
-        self.interests = [
+        self.alias = "Friendly Neighborhood Developer"
+
+        self.powers = [
             "Machine Learning",
             "Deep Learning",
             "Backend Development",
             "AWS Cloud",
-            "System Design"
-        ]
-        self.currently_learning = [
-            "Generative AI",
-            "LLMs",
-            "Cloud Architecture"
+            "Computer Vision"
         ]
 
-    def motto(self):
-        return "Adapt. Automate. Dominate."
+        self.current_mission = [
+            "Generative AI",
+            "Cloud Computing",
+            "Open Source",
+            "Building Intelligent Systems"
+        ]
+
+    def famous_quote(self):
+        return "With great code comes great responsibility."
 ```
 
-- 💻 Passionate about building intelligent and scalable applications
-- 🤖 Exploring Artificial Intelligence and Deep Learning
-- ☁️ Learning cloud-native development with AWS
-- 🚀 Always building projects that solve real-world problems
-- 🌱 Constantly learning new technologies and improving every day
+🕸️ Turning ideas into intelligent software.
+
+🕷️ Passionate about AI, Cloud Computing and Backend Development.
+
+⚡ Always learning something new.
+
+🚀 Building projects that solve real-world problems.
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Spider Signals
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/yash-rana-a18874293">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/rana_yash_001">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E62429?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://discord.com/users/rana_yash_001">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-3949AB?style=for-the-badge&logo=discord"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🕸️ Spider-Tech Arsenal
 
 <div align="center">
 
@@ -77,72 +84,58 @@ class YashRana:
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Spider Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rana-yash-001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-yash-001&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-yash-001&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-yash-001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🕷️ Spider Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rana-yash-001&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔍 **Image Tamper Detection** | AI-powered image forgery detection using OpenCV, Machine Learning and Python |
-| ☁️ **AWS Student Builder Group** | Leading cloud workshops, technical sessions and community initiatives |
-| 🤖 **AI & Deep Learning Projects** | Computer Vision, CNNs, Transfer Learning and Intelligent Systems |
-| 🌐 **Backend Applications** | REST APIs built with FastAPI, Flask and SQL/NoSQL databases |
+| 🕸️ Mission | 🦸 Description |
+|------------|---------------|
+| 🔍 **Image Tamper Detection** | AI-powered image forgery detection using OpenCV, Python, Machine Learning and Computer Vision. |
+| 📁 **Secure File Transfer System** | Secure file exchange platform with authentication, encryption and efficient sharing. |
+| 🌱 **Smart Irrigation System** | IoT-based irrigation automation using environmental and soil sensors. |
+| 🌾 **Crop Yield Prediction** | Machine Learning model for predicting agricultural production from historical data. |
+| 🍃 **Crop Disease Detection** | CNN-powered Deep Learning system for identifying plant diseases from leaf images. |
+| 🛒 **E-Commerce Platform** | Full-stack shopping platform with authentication, cart management and secure checkout. |
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rana-yash-001&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
+# 🕸️ Current Mission
 
 ```text
-🤖 Generative AI
-☁️ AWS Cloud
-⚙️ Backend Development
-🧠 Deep Learning
-🚀 Open Source Contributions
+🕷️ Mastering Generative AI
+
+☁️ Becoming an AWS Cloud Builder
+
+🤖 Building Intelligent Applications
+
+🚀 Contributing to Open Source
+
+⚡ Solving Real-World Problems
 ```
 
 ---
 
-# 📜 Quote
+# 🧠 Spider Wisdom
 
 <div align="center">
 
-> **"Ideas are cheap. Compiling them into reality is where the power lies."**
+> 🕷️ **"With great code comes great responsibility."**
+
+> **"Anyone can wear the mask. What matters is what you do while wearing it."**
 
 </div>
 
@@ -150,12 +143,10 @@ class YashRana:
 
 <div align="center">
 
-### ⚡ Adapt • Automate • Dominate
+## 🕸️ Thanks For Swinging By!
 
-**Thanks for visiting my profile!**
+⭐ If you enjoy my work, consider starring my repositories.
 
-If you enjoy my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7C873&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=E62429&section=footer"/>
 
 </div>
