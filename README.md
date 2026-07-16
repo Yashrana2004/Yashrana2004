@@ -1,56 +1,57 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Yash Rana Banner"/>
+<img src="./assets/banner.jpeg" alt="Yash Rana Banner" width="100%"/>
 
 <br>
 
-# 👋 Hello, I'm Yash Rana
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=F7C873&center=true&vCenter=true&width=700&lines=Software+Developer;Machine+Learning+Engineer;AWS+Cloud+Enthusiast;Backend+Developer;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=F7C873&center=true&vCenter=true&width=850&lines=Software+Developer;Machine+Learning+Engineer;AWS+Cloud+Enthusiast;Backend+Developer;Building+AI-Powered+Solutions"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rana-yash-001&label=PROFILE+VIEWS&color=ffb347&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rana-yash-001&label=PROFILE+VIEWS&color=F7C873&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```python
 class YashRana:
 
-    name = "Yash Rana"
+    def __init__(self):
+        self.name = "Yash Rana"
+        self.role = "Software Developer"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Backend Development",
+            "AWS Cloud",
+            "System Design"
+        ]
+        self.currently_learning = [
+            "Generative AI",
+            "LLMs",
+            "Cloud Architecture"
+        ]
 
-    role = "Software Developer"
-
-    location = "India"
-
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "AWS Cloud",
-        "Backend Development",
-        "System Design"
-    ]
-
-    currently_learning = [
-        "Generative AI",
-        "LLMs",
-        "Cloud Architecture"
-    ]
-
-    motto = "Adapt. Automate. Dominate."
+    def motto(self):
+        return "Adapt. Automate. Dominate."
 ```
+
+- 💻 Passionate about building intelligent and scalable applications
+- 🤖 Exploring Artificial Intelligence and Deep Learning
+- ☁️ Learning cloud-native development with AWS
+- 🚀 Always building projects that solve real-world problems
+- 🌱 Constantly learning new technologies and improving every day
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yash-rana-a18874293/">
+<a href="https://www.linkedin.com/in/yash-rana-a18874293">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -76,7 +77,7 @@ class YashRana:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -88,7 +89,7 @@ class YashRana:
 
 <p align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-yash-001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rana-yash-001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -98,7 +99,7 @@ class YashRana:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rana-yash-001&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rana-yash-001&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -108,14 +109,14 @@ class YashRana:
 
 | Project | Description |
 |---------|-------------|
-| 🔍 Image Tamper Detection | AI-powered image forgery detection using OpenCV, Python and Machine Learning |
-| ☁️ AWS Student Builder Group | Building a cloud community through workshops, events and hands-on learning |
-| 🤖 AI & Deep Learning | Computer Vision, CNNs, Transfer Learning and Intelligent Systems |
-| 🌐 Backend Development | FastAPI, Flask, REST APIs and Database Design |
+| 🔍 **Image Tamper Detection** | AI-powered image forgery detection using OpenCV, Machine Learning and Python |
+| ☁️ **AWS Student Builder Group** | Leading cloud workshops, technical sessions and community initiatives |
+| 🤖 **AI & Deep Learning Projects** | Computer Vision, CNNs, Transfer Learning and Intelligent Systems |
+| 🌐 **Backend Applications** | REST APIs built with FastAPI, Flask and SQL/NoSQL databases |
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -125,13 +126,15 @@ class YashRana:
 
 ---
 
-# ⚡ Current Focus
+# 🎯 Current Focus
 
-- 🤖 Generative AI
-- ☁️ AWS Cloud
-- 🚀 Open Source
-- 📚 Deep Learning
-- 💡 Building Real-World Projects
+```text
+🤖 Generative AI
+☁️ AWS Cloud
+⚙️ Backend Development
+🧠 Deep Learning
+🚀 Open Source Contributions
+```
 
 ---
 
@@ -139,7 +142,7 @@ class YashRana:
 
 <div align="center">
 
-> **Ideas are cheap. Compiling them into reality is where the power lies.**
+> **"Ideas are cheap. Compiling them into reality is where the power lies."**
 
 </div>
 
@@ -147,10 +150,12 @@ class YashRana:
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⚡ Adapt • Automate • Dominate
 
-**If you like my work, consider leaving a ⭐ on my repositories.**
+**Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+If you enjoy my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7C873&height=120&section=footer"/>
 
 </div>
